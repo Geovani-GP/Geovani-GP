@@ -1,7 +1,7 @@
 ### Hola mi nombre es Geovani, es un enorme placer saludarte 👋.
 ![](https://github.com/Geovani-GP/Geovani-GP/blob/master/Banner%20Geovani-01.png)
 
-```java
+```python
 class Geovani:
 
     def __init__(self):
@@ -10,8 +10,8 @@ class Geovani:
         self.web = 'https://geovani-gp.ddns.net'
         self.twitter = '@GeovaniGmezPrez'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'Angular', 'ASP.NET', 'Boostrap', 'JSP'],
-            'backend': ['C#', 'PHP', 'Java', 'NodeJS'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'Angular', 'ASP.NET', 'Boostrap', 'JSP', 'Django'],
+            'backend': ['C#', 'PHP', 'Java', 'NodeJS', 'Python'],
             'database': ['MySQL', 'SQL Server', 'Mongo DB', 'Maria DB', 'Oracle', 'Firebase'],
             'devops': ['Heroku'],
             'tools': ['GIT', 'GitHub', 'GitLab'],
