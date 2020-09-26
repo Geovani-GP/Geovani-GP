@@ -28,11 +28,11 @@ if __name__ == '__main__':
 
 
 ```
-## Get in touch
+## Contacto
 
 - Twitter: https://twitter.com/GeovaniGmezPrez
 - Personal Site:https://geovani-gp.ddns.net
-
+<!--
 ## Latest Posts (Spanish)
 
 {% for post in latest_post %}
@@ -40,7 +40,7 @@ if __name__ == '__main__':
 {%  endfor %}
 
 
-<!--
+
 **Geovani-GP/Geovani-GP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
