@@ -1,5 +1,5 @@
 ### Hola mi nombre es Geovani, es un enorme placer saludarte 👋.
-![](https://github.com/Geovani-GP/Geovani-GP/blob/master/Banner%20Geovani-03-01.png)
+![](https://github.com/Geovani-GP/Geovani-GP/blob/master/Banner%20Geovani%20(2).png)
 
 ```python
 class Geovani:
