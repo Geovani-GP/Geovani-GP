@@ -26,7 +26,9 @@ class Geovani:
 if __name__ == '__main__':
     me = Geovani()
 
-https://github-readme-stats.vercel.app/api?username=Geovani-gp
+
+[![my dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geovani-gp)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ```
 ## Contacto
