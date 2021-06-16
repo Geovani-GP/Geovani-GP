@@ -28,7 +28,7 @@ if __name__ == '__main__':
 
 ```
 
-[![my dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geovani-gp)](https://github.com/anuraghazra/github-readme-stats)
+[![my dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geovani-gp)](https://github.com/Geovani-GP)
 
 
 ## Contacto
