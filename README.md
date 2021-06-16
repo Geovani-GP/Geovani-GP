@@ -26,6 +26,7 @@ class Geovani:
 if __name__ == '__main__':
     me = Geovani()
 
+https://github-readme-stats.vercel.app/api?username=Geovani-gp
 
 ```
 ## Contacto
